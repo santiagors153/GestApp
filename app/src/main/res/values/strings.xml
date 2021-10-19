@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GestApp</string>
+    <string name="card_input_usuario">ID usuario</string>
+    <string name="card_required">Requerido</string>
+    <string name="card_password">Contraseña</string>
+    <string name="card_btn_login">Continuar</string>
+    <string name="descripcion_image_foto">Imagen de la paciente</string>
+    <string name="description_button_addusuario">Crear nuevo paciente</string>
+    <string name="hint_name">Nombre de Paciente</string>
+    <string name="hint_apellidoP">Apellido P</string>
+    <string name="hint_apellidoM">Apellido M</string>
+    <string name="hint_DNI">DNI</string>
+    <string name="helpe_require">requerido</string>
+    <string name="hint_lastname_p">Apellido paterno</string>
+    <string name="hint_lastname_m">Apellido materno</string>
+    <string name="hint_phone">Numero de telfono</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_hitoria_clinica">Hitoria Clinica</string>
+    <string name="hint_edad">Edad</string>
+    <string name="edith_paciente_message_save_success">Paciente agregada correctamente</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_save">Save</string>
+    <string name="edit_store_message_valid">Resive los campos requeridos</string>
+    <string name="description_store_add">Crear tienda</string>
+
+
+    <string name="hint_website">url del sitio web</string>
+    <string name="hint_phone_url">url de la iamgen</string>
+
+
+    <string name="edith_store_message_update_success">Tienda actualizada</string>
+    <string name="edit_store_title_edit">Editar tienda</string>
+    <string name="edith_store_message_save_success">Tienda agregada correctamente</string>
+    <string name="edit_store_title_add">Crear tienda</string>
+
+    <string name="dialog_delete_title">Eliminar tienda?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="dialog_options_title">Que desea hacer?</string>
+
+    <string name="main_error_no_website">Esta tienda no cuenta con un sitio web</string>
+    <string name="main_error_no_resolve">No se encontro ninguna app compatible</string>
+    <string name="dialog_delete_llamar">Llamar</string>
+    <string name="dialog_delete_website">Ir al sitio web</string>
+    <string name="hint_dni">DNI</string>
+    <string name="args_id">key_id</string>
+    <string name="hint_positivo">Positivo</string>
+    <string name="hint_negative">Negativo</string>
+    <string name="edith_paciente_message_success">Paciente nuevo</string>
+    <string name="edith_paciente_message_view_success">Paciente</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_add">Reporte</string>
+    <string name="home_message">Mensajes</string>
+    <string name="home_profile">Perfil</string>
+</resources>
